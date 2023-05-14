@@ -1,6 +1,10 @@
-# 💫 About Me:
-Front-End developer <br>HTML5 | CSS3 | Bootstrap | JavaScript | PHP | MySQL | WordPress
+# 📜 Um pouco sobre mim! 📜 :
 
+Olá, meu nome é Nicolas Cage, tenho 22 anos e sou estudante de segurança da informação. Iniciei minha jornada na área da informática há três anos e desde então venho buscando aprimorar meus conhecimentos e habilidades em desenvolvimento web e segurança cibernética.
+
+Recentemente, tive a oportunidade de reportar falhas para empresas em Maringá e Londrina, o que me permitiu aprimorar minha compreensão dos desafios enfrentados na área de segurança da informação.
+
+Estou animado para continuar aprendendo e desenvolvendo minhas habilidades nesta área, e espero poder contribuir para projetos desafiadores e interessantes no futuro.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nicolascagezin1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-cage-josué-lacerda-costa-922a31190/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/nicolascagetrue) 
